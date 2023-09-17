@@ -20,6 +20,7 @@ async function main() {
     },
     update: {},
   });
+  
 }
 
 main()
